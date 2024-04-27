@@ -1,5 +1,4 @@
-Top 100 Best Selling Books: A Asimov Academy Revamp
-(Streamlit, Pandas, Plotly)
+**Top 100 Best Selling Books: A Asimov Academy Revamp (Streamlit, Pandas, Plotly)**
 
 
 <img width="1440" alt="Captura de Tela 2024-04-21 às 17 12 11" src="https://github.com/guilhermemannapires/amazonbestselling/assets/167683716/666c3ef0-69c3-4f9f-9c04-08bcffffefbc">
